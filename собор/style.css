@@ -1,0 +1,39 @@
+body{
+    font-family: sans-serif;
+    max-width: 1920px;
+    min-width: 800px;
+    margin: 0;
+}
+header{
+    align-items: center;
+  justify-content: center;
+    display: flex;
+}
+.name{
+    font-size: 60px;
+    font-weight: 700;
+    color:	#1E90FF;
+    
+
+    
+}
+main{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin: 0 10px 10px 10px;
+    gap:15px;
+
+      
+}
+.picture{
+    display: flex;
+    gap: 10px;
+    align-items: center;
+    justify-content: center;
+
+}
+
+.info{
+ font-size: 36px;
+}
