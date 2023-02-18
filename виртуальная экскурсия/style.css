@@ -12,10 +12,14 @@ header{
 .name{
     font-size: 55px;
     font-weight: 700;
+    width: 400px;
+    text-align: center;
 }
 
 .subtitle{
     font-weight: 400;
+    text-align: center;
+    width: 600px;
 }
 main{
     display: flex;
